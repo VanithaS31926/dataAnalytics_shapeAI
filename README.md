@@ -1,1 +1,1 @@
-# dataAnalytics_shapeAI
+Python and Data Analytics bootcamp by ShapeAI
